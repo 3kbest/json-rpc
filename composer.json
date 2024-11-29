@@ -1,5 +1,5 @@
 {
-  "name": "fguillot/json-rpc",
+  "name": "3kbest/json-rpc",
   "description": "Simple JSON-RPC client/server library that just works",
   "homepage": "https://github.com/matasarei/json-rpc",
   "type": "library",
